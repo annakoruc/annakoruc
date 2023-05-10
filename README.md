@@ -10,7 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anna-koruc-043ba01b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annakoruc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anna-koruc-043ba01b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewars" height="30" width="40" /></a>
+  <a href="https://www.codewars.com/users/AnnaKoruc" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt="annakoruc" height="30" width="30" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
